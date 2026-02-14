@@ -1,4 +1,4 @@
-# Tiny and simple Go application boilerplate
+# Tiny Go application boilerplate
 
 ## Usage
 
